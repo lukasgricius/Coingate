@@ -35,4 +35,4 @@ Summary
 All in all Project went according to the plan and no crucial bugs were found in those parts.
 Some minor bug fixes and improvements are necessary though.
 
-For test sceanrios check Coingate_testing_V1.xlsx file.
+For test scenarios check Coingate_testing_V1.xlsx file.
